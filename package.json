@@ -1,0 +1,11 @@
+{
+  "name": "learn-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jamilcse13/learn-nodejs.git",
+  "author": "islam.saiful <islam.saiful@brainstation-23.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
